@@ -58,6 +58,6 @@ Each team must submit:
 
  ## Contributors
 
-- [username1](https://github.com/MohammadAdel11)
-- [username2](https://github.com/Nagham202)
-- [username3](https://github.com/hayaabuhjeer)
+- [Mohammed](https://github.com/MohammadAdel11)
+- [Nagham](https://github.com/Nagham202)
+- [Haya](https://github.com/hayaabuhjeer)
